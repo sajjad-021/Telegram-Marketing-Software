@@ -14,7 +14,7 @@
 
 # Precompiled Headers
 *.gch
-*.pch
+*.pch1
 
 # Libraries
 *.lib
